@@ -22,9 +22,11 @@
 #third{
     background-image: url("../image/delanistudio3.jpg");
     background-size:cover;
+    height:200px;
 }
 #contact{
     background-image: url("../image/delanistudio.jpg");
     background-size: cover;
     
+
 }
