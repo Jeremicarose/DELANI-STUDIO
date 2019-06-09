@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    overflow-x: hidden;
 }
 #first{
     background-image: url("../image/delanistudio2.jpg");
@@ -33,5 +34,12 @@
     background-image: url("../image/delanistudio.jpg");
     background-size: cover;
     
+
+}
+.form-cont input{
+    background: transparent;
+}
+.form-cont textarea{
+    background: none;
 
 }
