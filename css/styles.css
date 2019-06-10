@@ -44,6 +44,11 @@ hide{
     background: none;
 
 }
-#social{
+#social:hover{
     margin-left: 500px;
+
+
+}
+.par, .par1, .par2{
+    display:none;
 }
