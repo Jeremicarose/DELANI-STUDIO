@@ -1,67 +1,87 @@
-
-
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     text-align: center;
     overflow-x: hidden;
 }
-#first{
+
+#first {
     background-image: url("../image/delanistudio2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
     height: 400px;
-    color:white;
-    padding-top: 100px 
-
-    
-
+    color: white;
+    padding-top: 100px
 }
 
 
-#third{
+#third {
     background-image: url("../image/delanistudio3.jpg");
     background-position: center;
-    margin-bottom:20px; 
-    padding-top:200px;
-    color:white;
-    height:450px;
+    margin-bottom: 20px;
+    padding-top: 200px;
+    color: white;
+    height: 450px;
 
 }
-#contact{
+
+#contact {
     background-image: url("../image/delanistudio.jpg");
     background-size: cover;
-    
+
 
 }
-.form-cont input{
+
+.form-cont input {
     background: transparent;
 }
-.form-cont textarea{
+
+.form-cont textarea {
     background: none;
 
 }
-#social{
+
+#social {
     margin-left: 200px
-
-
 }
-#par1, #par2, #par3{
-    display:none;
+
+#par1,
+#par2,
+#par3 {
+    display: none;
     left: 40%;
 }
-h1{
+
+h1 {
     font-size: 2em;
     font-family: cursive;
     padding: 6px;
     font-weight: bold;
 }
-.card:hover{
-    transform: scale(1.1);
-    transition: all 0.4s ease;
-    opacity: 0.4;
+.onTop{
+    position: absolute;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.699);
+    opacity: 0;
+    height: 100%;
+    right: 0;
+    left: 0%;
+    top: 0;
+    
 }
 
+.onTop-text{
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+    top: 50%;
+    position: absolute;
+    text-align: center;
+    left: 20%;
+    border:2px blue solid;
+    box-sizing: border-box;
+    
 
+}
