@@ -44,14 +44,15 @@ hide{
     background: none;
 
 }
-#social:hover{
-    margin-left: 500px;
+#social:hover img{
+    background-color: blue;
+    margin-left: 200px
 
 
 }
 .par, .par1, .par2{
     display:none;
-    margin:0%;
+    left: 40%;
 }
 h1{
     font-size: 2em;
@@ -59,6 +60,4 @@ h1{
     padding: 6px;
     font-weight: bold;
 }
-#social{
-    margin-left: 200px
-}
+
