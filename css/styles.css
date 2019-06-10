@@ -19,9 +19,8 @@
     
 
 }
-hide{
-    display:none;
-}
+
+
 #third{
     background-image: url("../image/delanistudio3.jpg");
     background-position: center;
@@ -44,13 +43,12 @@ hide{
     background: none;
 
 }
-#social:hover img{
-    background-color: blue;
+#social{
     margin-left: 200px
 
 
 }
-.par, .par1, .par2{
+#par1, #par2, #par3{
     display:none;
     left: 40%;
 }
@@ -60,4 +58,10 @@ h1{
     padding: 6px;
     font-weight: bold;
 }
+.card:hover{
+    transform: scale(1.1);
+    transition: all 0.4s ease;
+    opacity: 0.4;
+}
+
 
