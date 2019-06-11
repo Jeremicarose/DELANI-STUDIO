@@ -3,7 +3,7 @@
    By (Jeremic Arose:)
 
 ## Description
-This project interlinks clients to software developers.
+This project interlinks clients to software developers ,and showcase there portfolio , what they have done ,history about the studio and lastly the services they offer.
 
 ## LIVE DEMO. https://jeremicarose.github.io/DELANI-STUDIO/
   
