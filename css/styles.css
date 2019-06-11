@@ -60,7 +60,8 @@ h1 {
     padding: 6px;
     font-weight: bold;
 }
-.onTop{
+
+.onTop {
     position: absolute;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.699);
@@ -69,10 +70,10 @@ h1 {
     right: 0;
     left: 0%;
     top: 0;
-    
+
 }
 
-.onTop-text{
+.onTop-text {
     color: white;
     font-weight: 600;
     text-transform: uppercase;
@@ -80,8 +81,8 @@ h1 {
     position: absolute;
     text-align: center;
     left: 20%;
-    border:2px blue solid;
+    border: 2px blue solid;
     box-sizing: border-box;
-    
+
 
 }
